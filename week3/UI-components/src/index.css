@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #f8fafc;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
